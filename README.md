@@ -17,7 +17,7 @@
     <a href="https://codepen.io/sushil" target="blank"><img align="center"
             src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"
             alt="sushil" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/sushil sharma" target="blank"><img align="center"
+    <a href="https://www.linkedin.com/in/sushil1603/" target="blank"><img align="center"
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black"
             alt="sushil sharma" height="30" width="40" /></a>
     <a href="https://instagram.com/sushilsharma1603" target="blank"><img align="center"
