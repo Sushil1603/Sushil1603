@@ -11,7 +11,7 @@
 - 💬 Ask me about **HTML, CSS and JavaScript**
 
 - 📫 How to reach me **sks2669955@gmail.com**
--   <a href="https://Sushil1603.github.io" target="blank">My Portfolio</a>
+-   <a href="https://Sushil1603.github.io" target="_blank">My Portfolio</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
