@@ -11,7 +11,7 @@
 - 💬 Ask me about **HTML, CSS and JavaScript**
 
 - 📫 How to reach me **sks2669955@gmail.com**
--  Portolio - <a href="[https://codepen.io/sushil](https://Sushil1603.github.io)" target="blank"></a>
+-  Portolio - <a href="https://Sushil1603.github.io" target="blank"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
