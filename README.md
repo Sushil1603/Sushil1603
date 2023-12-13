@@ -23,6 +23,8 @@
     <a href="https://leetcode.com/sushilsharma1603/" target="blank"><img align="center"
             src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"
             alt="sushilsharma1603" height="35" width="100" /></a>
+
+    
 </p>
 
 <h1 align="left">💻 Tech Stack:</h1>
@@ -43,13 +45,27 @@
      &nbsp;
       <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" width="100" height="35" />
      &nbsp;
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" width="100" height="35" />
-     &nbsp;
+
 <img src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF" width="100" height="35" />
      &nbsp;
-    
-    
-<h3 align="left">Github Stats:</h3>
+</p>
+<h1 align="left">💻 Tools:</h1>
+
+<p> 
+ <img src="https://camo.githubusercontent.com/88ab3c0f78016111d88ef82030375fb740d82dd0c16c1b078c441e22479009b3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5653436f64652d3030373844343f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c25323073747564696f253230636f6465266c6f676f436f6c6f723d7768697465" width="100" height="35" />
+     &nbsp;
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" width="100" height="35" />
+     &nbsp; 
+    <img src="https://camo.githubusercontent.com/b47580b7e8e0b4ce9bb718070140318f72d316a0c88e0dd53a5ac4b0bdfc755e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e504d2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e706d266c6f676f436f6c6f723d7768697465" width="100" height="35" />
+     &nbsp; 
+    <img src="https://camo.githubusercontent.com/85232e7b5095a716ed285b0b2150cc5b400a0bb602539912d26d312ea0b0d95b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d6634346432373f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465" width="100" height="35" />
+     &nbsp;
+
+<img src="https://camo.githubusercontent.com/fbc3df79ffe1a99e482b154b29262ecbb10d6ee4ed22faa82683aa653d72c4e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" width="100" height="35" />
+     
+</p>
+
+<h2 align="left">Github Stats:</h2>
 <p>
     <img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushil1603&langs_count=3&theme=transparent&show_icons=true" width="40%"
