@@ -14,13 +14,13 @@
 <p align="left">
     <a href="https://codepen.io/sushil" target="blank"><img align="center"
             src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"
-            alt="sushil" height="40" width="80" /></a>
+            alt="sushil" height="40" width="100" /></a>
     <a href="https://www.linkedin.com/in/sushil1603/" target="blank"><img align="center"
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black"
-            alt="sushil sharma" height="40" width="80" /></a>
-    <a href="https://instagram.com/sushilsharma1603" target="blank"><img align="center"
-            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-            alt="sushilsharma1603" height="40" width="80" /></a>
+            alt="sushil sharma" height="40" width="100" /></a>
+    <a href="https://leetcode.com/sushilsharma1603/" target="blank"><img align="center"
+            src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"
+            alt="sushilsharma1603" height="40" width="100" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
