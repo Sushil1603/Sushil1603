@@ -45,19 +45,20 @@
      &nbsp;
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" width="100" height="35" />
      &nbsp;
-<img src=" https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF" width="100" height="35" />
+<img src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF" width="100" height="35" />
      &nbsp;
     
-    <img src=" https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF" width="100" height="35" />
-     &nbsp;
-
+    
+<h3 align="left">Github Stats:</h3>
 <p>
     <img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=sushil1603&show_icons=true&locale=en&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushil1603&langs_count=3&theme=transparent&show_icons=true" width="40%"
         alt="sushil1603" /></p>
 
-<p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=sushil1603&show_icons=true&locale=en"
+<p><img align="left"
+        src="https://github-readme-stats.vercel.app/api?username=sushil1603&show=prs_merged,prs_merged_percentage&theme=transparent&show_icons=true" width="52%"  
         alt="sushil1603" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sushil1603&" alt="sushil1603" /></p>
+<p><img align="center"
+        src="https://streak-stats.demolab.com/?user=sushil1603&theme=transparent&show_icons=true"   
+        alt="sushil1603" /></p>
