@@ -8,7 +8,7 @@
 
 - 🌱 I’m proficient at **React, MongoDB, HTML, CSS, JS**
 - 📫 How to reach me **sks2669955@gmail.com**
--   <a href="https://Sushil1603.github.io" target="_blank">My Portfolio</a>
+- 👜 My Portfolio  <a href="https://Sushil1603.github.io" target="_blank">Sushil1603.github.io</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
